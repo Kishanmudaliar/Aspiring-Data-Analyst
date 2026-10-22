@@ -12,4 +12,4 @@ Excel (Power Query, Pivot) • SQL (MySQL) • Power BI (DAX) • Python (basics
 - **Telco Churn Dashboard (Power BI)** - coming soon
 
 ## 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/kishan-mudaliar-ab596b244/) • [Email](mudaliarkishan@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/kishan-mudaliar-ab596b244/) • [Email](mailto:mudaliarkishan@gmail.com)
